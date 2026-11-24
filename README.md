@@ -1,4 +1,4 @@
-### Hi, I'm Eugene Zubovich
+### Hi, I'm Eugene
 
 Senior Full Stack PHP Developer from Minsk with 8+ years of commercial experience.
 I build SaaS platforms, e-commerce and fintech products — backend on **Laravel / Symfony**,
