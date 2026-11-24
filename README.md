@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Eugene Zubovich
 
-<!--
-**eugenez36/eugenez36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full Stack PHP Developer from Minsk with 8+ years of commercial experience.
+I build SaaS platforms, e-commerce and fintech products — backend on **Laravel / Symfony**,
+frontend on **React / TypeScript** and **Vue**.
 
-Here are some ideas to get you started:
+- 🔭 Currently building SaaS products for international clients (energy hedging, treasury, accounting)
+- 🏢 Previously: internal tools & reporting at **Rakuten Viber**, Shopify apps at **SpurIT**
+- ⚡ Strong at: performance optimization, integrations & message queues, AI-assisted development (Claude Code, MCP)
+- 📚 Learning: Product Management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack
+
+![stack](https://skillicons.dev/icons?i=php,laravel,symfony,react,ts,vue,nodejs,mysql,postgres,redis,docker,rabbitmq,aws,git)
+
+### Contact
+
+📫 eugene.zubovich@gmail.com
